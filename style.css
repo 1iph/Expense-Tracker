@@ -166,7 +166,7 @@ h2{
     border-right-color: #dc2626;
 }
 
-.transaction.delete-btn {
+.delete-btn {
     background: none;
     border: none;
     color: #dc2626;
